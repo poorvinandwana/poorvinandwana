@@ -8,12 +8,26 @@ Currently, I’m exploring how AI and Machine Learning can be integrated into re
 ## 🎓 About Me
 
 🎓 B.Tech in Computer Science (Undergraduate)
+
+
 💻 Strong focus on Python, Django & Backend Development
+
+
 🧠 Regularly practice DSA for logical thinking & optimization
+
+
 🤖 Actively learning AI/ML and integrating it into projects
+
+
 🌐 Interested in full-stack development & intelligent systems
+
+
 🚀 Love building end-to-end applications from idea to deployment
+
+
 🧠 Skills & Tech Stack
+
+
 
 ## 🧑‍💻 Languages
 
@@ -24,6 +38,8 @@ Currently, I’m exploring how AI and Machine Learning can be integrated into re
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
+
+
 
 
 ## ⚙️ Frameworks & Tools
@@ -37,26 +53,52 @@ Currently, I’m exploring how AI and Machine Learning can be integrated into re
 </p>
 
 
+
+
 ## 📊 GitHub Stats
 
 🎯 What I’m Currently Working On
+
+
 🤖 Building AI-powered web applications
+
+
 📈 Improving DSA & problem-solving speed
+
+
 🌐 Advanced Django & backend architecture
+
+
 🧪 Experimenting with ML models in real projects
+
+
 
 
 ## 📬 Contact Me
 
 💼 LinkedIn: https://www.linkedin.com/in/poorvi-nandwana/
+
+
 📧 Email: poorvinandwana12@gmail.com
+
+
 🐙 GitHub: @poorvinandwana
+
+
 
 ## 🌟 Fun Facts
 
 💡 I love turning ideas into working applications
+
+
 🧩 Problem-solving excites me more than just writing code
+
+
 🔁 Life motto: Learn. Build. Improve. Repeat.
+
+
 🚀 Always open to collaborations & learning new tech
+
+
 
 ⭐ Thanks for visiting my GitHub! Feel free to explore my repositories and connect with me.
