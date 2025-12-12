@@ -31,7 +31,6 @@ Currently, I’m exploring how AI and Machine Learning can be integrated into re
 
 
 
-##🧠 Skills & Tech Stack
 
 
 
@@ -64,7 +63,6 @@ Currently, I’m exploring how AI and Machine Learning can be integrated into re
 
 
 
-## 📊 GitHub Stats
 
 ## 🎯 What I’m Currently Working On
 
@@ -115,4 +113,4 @@ Currently, I’m exploring how AI and Machine Learning can be integrated into re
 
 
 
-⭐ Thanks for visiting my GitHub! Feel free to explore my repositories and connect with me.
+# ⭐ Thanks for visiting my GitHub! Feel free to explore my repositories and connect with me.
