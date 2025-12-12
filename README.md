@@ -5,6 +5,8 @@ I enjoy building clean, practical, and user-focused solutions using Python and D
 
 Currently, I’m exploring how AI and Machine Learning can be integrated into real-world web applications to make them smarter and more efficient.
 
+
+
 ## 🎓 About Me
 
 🎓 B.Tech in Computer Science (Undergraduate)
@@ -25,7 +27,11 @@ Currently, I’m exploring how AI and Machine Learning can be integrated into re
 🚀 Love building end-to-end applications from idea to deployment
 
 
-🧠 Skills & Tech Stack
+
+
+
+
+##🧠 Skills & Tech Stack
 
 
 
@@ -55,9 +61,12 @@ Currently, I’m exploring how AI and Machine Learning can be integrated into re
 
 
 
+
+
+
 ## 📊 GitHub Stats
 
-🎯 What I’m Currently Working On
+## 🎯 What I’m Currently Working On
 
 
 🤖 Building AI-powered web applications
@@ -74,6 +83,8 @@ Currently, I’m exploring how AI and Machine Learning can be integrated into re
 
 
 
+
+
 ## 📬 Contact Me
 
 💼 LinkedIn: https://www.linkedin.com/in/poorvi-nandwana/
@@ -83,6 +94,9 @@ Currently, I’m exploring how AI and Machine Learning can be integrated into re
 
 
 🐙 GitHub: @poorvinandwana
+
+
+
 
 
 
